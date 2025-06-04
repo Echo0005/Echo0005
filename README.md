@@ -1,4 +1,15 @@
-## Hi there 👋
+# ¡Hola! 👋, mi nombre es Nicolás Echenique.
+## Y soy Desarrollador Web Full Stack.
+
+### Por el lado de Front-End: 
+#### Tengo prácticas y experiencia con los frameworks: Angular y Next.js. Manejo los lenguajes: HTML, CSS, JavaScript y TypeScript. Y también los frameworks CSS: Bootstrap y Tailwind CSS.
+
+#### Desde centrar un div, pasando por el desarrollo de páginas web, hasta llegar a la integración con API’s, para Aplicaciones Web. Y mencionando sobre animaciones, por el momento solo me desempeño en lo básico (pero que me es atrapante).
+#
+### Y del lado Back-End:
+#### Me enfoco en Java, con su framework Spring (principalmente con Spring Boot) y en menor medida Python. También bases de datos SQL, como MySQL y MariaDB.
+
+#### Desde una API básica con un CRUD (las operaciones más básicas: Create, Read, Update y Delete), avanzando por Logins de seguridad y el uso de JJWT (Java JWT), llegando hasta la persistencia (guardar consistentemente algo) con Bases de Datos. Manejo de reglas de Negocio (que la Lógica haga ciertas tareas en particular), tablas relacionales en bases de datos, como también aplicar el Patrón de Arquitectura "Hexagonal" para fomentar el desacoplamiento (para que cuando se quiera cambiar de framework, cueste mucho menos dinero y tiempo… entre otros…) y la escalabilidad (que nuestra App pase a hacer muchas más cosas que antes, en este caso, sin que nada se descontrole), entre otros.
 
 <!--
 **Echo0005/Echo0005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
