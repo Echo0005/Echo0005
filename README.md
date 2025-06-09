@@ -11,7 +11,7 @@
 
 
 ## Y del lado Back-End:
-### Me enfoco en Java, con su framework Spring (principalmente con Spring Boot) y en menor medida Python. También bases de datos SQL, como MySQL y MariaDB. Llegando a Testing con JUnit, Mockito y AssertJ.
+### Me enfoco en Java, con su framework Spring (principalmente con Spring Boot) y en menor medida Python. También manejo bases de datos relacionales, como MySQL y MariaDB. Llegando a Testing con JUnit, Mockito y AssertJ.
 
 
 #### Desde crear una API básica con un CRUD (las operaciones más básicas: Create, Read, Update y Delete), avanzando por Logins de seguridad y el uso de JJWT (Java JWT), llegando hasta la persistencia (guardar consistentemente algo) con Bases de Datos. 
