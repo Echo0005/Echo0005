@@ -4,15 +4,15 @@
 
 
 ## Por el lado de Front-End: 
-### Tengo prácticas y experiencia con los frameworks: Angular y Next.js. Manejo los lenguajes: HTML, CSS, JavaScript y TypeScript. Y también los frameworks CSS: Bootstrap y Tailwind CSS.
 
+### Tengo prácticas y experiencia con los frameworks: Angular y Next.js. Manejo los lenguajes: HTML, CSS, JavaScript y TypeScript. Y también los frameworks CSS: Bootstrap y Tailwind CSS.
 
 #### Desde centrar un div, pasando por el desarrollo de páginas web, hasta llegar a la integración con API’s, para Aplicaciones Web. Y mencionando sobre animaciones, por el momento solo me desempeño en lo básico (pero que me es atrapante).
 
 
 ## Y del lado Back-End:
-### Me enfoco en Java, con su framework Spring (principalmente con Spring Boot) y en menor medida Python. También manejo bases de datos relacionales, como MySQL y MariaDB. Llegando a Testing con JUnit, Mockito y AssertJ.
 
+### Me enfoco en Java, con su framework Spring (principalmente con Spring Boot) y en menor medida Python. También manejo bases de datos relacionales, como MySQL y MariaDB. Llegando a Testing con JUnit, Mockito y AssertJ.
 
 #### Desde crear una API básica con un CRUD (las operaciones más básicas: Create, Read, Update y Delete), avanzando por Logins de seguridad y el uso de JJWT (Java JWT), llegando hasta la persistencia (guardar consistentemente algo) con Bases de Datos. 
 
@@ -22,6 +22,13 @@
 ## Respecto a Dev Ops
 
 ### Manejo mucho Git y Github. Para Deploy he usado Firebase y unas pocas veces Heroku.
+
+
+## Contacto
+
+### Email: nicolas.echenique.117@gmail.com
+
+### LinkedIn: [in/marcelo-nicolas-echenique/](https://www.linkedin.com/in/marcelo-nicolas-echenique/)
 
 <!--
 **Echo0005/Echo0005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
